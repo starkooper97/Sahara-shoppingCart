@@ -1,0 +1,9 @@
+.orders,
+.order_image {
+  /* margin: auto; */
+  text-align: center;
+}
+
+.order_image {
+  margin-top: 15px;
+}
